@@ -3,3 +3,5 @@ I orignally created this back in 2020-2021 to help my classmates pass this cours
 I figured it could be useful to others who are currently taking the course now and in the future. 
 And instead of sharing a file around why not a github link instead?
 Anyway I hope you find this helpful. Please do read the various "READ ME's" as they apply to you.
+
+Feel free to branch this and make pull requests if you feel you want to add or change anything. Happy Problem Solving!
